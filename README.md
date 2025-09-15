@@ -76,7 +76,7 @@ Me chamo Thiago Lessenko, 20 anos, curso Engenharia de Software na Universidade 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lessenko18&theme=dracula&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Lessenko18&theme=dracula&show_icons=true&include_all_commits=true" 
   />
 
 <img 
