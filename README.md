@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back-end`**
 
-Me chamo Thiago Lessenko, 20 anos, curso Engenharia de Software na Universidade da Região de Joinville (Univille), atualmente no 6° semestre. Apaixonado por tecnologia, iniciando minha trajetória na área de infraestrutura, concluindo o curso técnico em TI. Hoje, direciono minha carreira para a programação e desenvolvimento de software, buscando sempre aprimorar conhecimentos e explorar novas soluções.
+Me chamo Thiago Lessenko, 20 anos, curso Engenharia de Software na Universidade da Região de Joinville (Univille), atualmente no 7° semestre. Apaixonado por tecnologia, iniciando minha trajetória na área de infraestrutura, concluindo o curso técnico em TI. Hoje, direciono minha carreira para a programação e desenvolvimento de software, buscando sempre aprimorar conhecimentos e explorar novas soluções.
 
 <div>
 <a href="https://www.linkedin.com/in/thiago-lessenko-dos-santos-7954a6225/">
